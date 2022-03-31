@@ -4,7 +4,7 @@
 This application has two sets of eyes that follows your mouse with the displayed eyes. 
 
 ### How to Run
-Follow the link to this repo to check it out on Github Pages
+Follow the link to this repo to see it on Github Pages
 
 Clone the project and run index.html
 
